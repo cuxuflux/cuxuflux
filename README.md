@@ -4,4 +4,4 @@
 **cuxuflux/cuxuflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Biology student currently learning how to code. <br/>
-Mostly interested in genetics, ecology and evolution.
+Mostly interested in genetics, microbial ecology and evolution.
